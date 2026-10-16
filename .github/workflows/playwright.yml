@@ -13,7 +13,7 @@ jobs:
     timeout-minutes: 10
 
     env:
-      BASE_URL: https://reqres.in
+      BASE_URL: https://dummyjson.com
 
     steps:
       - uses: actions/checkout@v4
