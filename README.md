@@ -1,5 +1,7 @@
 # api-test-suite
 
+> **Archived (read-only).** This was an early standalone suite and is kept as it was. The maintained API work is in [qa-automation-platform](https://github.com/rizvihiqrar/qa-automation-platform): [qa-practice-api](https://github.com/rizvihiqrar/qa-automation-platform/tree/main/packages/qa-practice-api) (a REST API with its own test suite), [postman-api-collection](https://github.com/rizvihiqrar/qa-automation-platform/tree/main/packages/postman-api-collection) (DummyJSON), [api-drift-checker](https://github.com/rizvihiqrar/qa-automation-platform/tree/main/packages/api-drift-checker) and [contract-testing-demo](https://github.com/rizvihiqrar/qa-automation-platform/tree/main/packages/contract-testing-demo).
+
 ![CI](https://github.com/rizvihiqrar/api-test-suite/actions/workflows/playwright.yml/badge.svg)
 
 Playwright API test suite targeting the public [DummyJSON](https://dummyjson.com) REST API. Covers authentication, CRUD operations, pagination, and error handling. No browser is required.
